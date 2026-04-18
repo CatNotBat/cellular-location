@@ -1,0 +1,8 @@
+# Copy this file to local.properties and fill in your values.
+# local.properties is git-ignored and never committed.
+
+# Path to your Android SDK installation
+sdk.dir=/home/YOUR_USERNAME/Android/Sdk
+
+# OpenCellID API key — get one free at https://opencellid.org/
+opencellid.api.key=YOUR_KEY_HERE
